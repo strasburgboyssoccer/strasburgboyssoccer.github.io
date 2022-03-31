@@ -7,6 +7,12 @@ body {
 	background-color: black;
 }
 
+.banner {
+	padding: 20px 0;
+	background-color: purple;
+	font-family: 'Poppins', sans-serif;
+}
+
 nav {
 	font-family: 'Poppins', sans-serif;
 	text-align: left;
